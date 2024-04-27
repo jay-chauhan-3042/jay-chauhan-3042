@@ -12,7 +12,7 @@ Ugat - Bhesan Road,
 Jahangirabad, Surat,  
 Gujarat, IND - 395009 🇮🇳
 
-## What I Do
+## What I Do 🖥️
 - **Backend Development**: Proficient in building scalable backend systems using technologies like [Node.js](https://nodejs.org/) and PHP.
 - **Frontend Development**: Skilled in crafting dynamic and responsive user interfaces with [React.js](https://reactjs.org/), [Vue.js](https://vuejs.org/), and other frontend frameworks.
 - **Full-Stack Development**: Experienced in full-stack development, seamlessly integrating frontend and backend technologies to create cohesive web applications.
@@ -21,7 +21,7 @@ Gujarat, IND - 395009 🇮🇳
 - **Android Development**: Proficient in Android development, with experience in building mobile applications using Java and Android SDK.
 - **Shell Programming**: Skilled in shell scripting for automation and system administration tasks in Linux environments.
 
-## Projects Highlights
+## Projects Highlights 📂
 Here are some notable projects I've worked on:
 
 - **ClearIt Logistic Portal**: A Laravel-based platform for streamlined logistics management.
